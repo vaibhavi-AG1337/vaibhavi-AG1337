@@ -1,5 +1,5 @@
 ## Hello 🙏🏻
-I am  Vaibhavi Agrawal . I am a 2nd year undergrad with keen interest in Software developement alongside project and event management.
+I am  Vaibhavi Agrawal . I am a 3rd year undergrad with keen interest in Software developement alongside project and event management.
 
 ### About 🙋🏻‍♂️
 ```python
