@@ -1,0 +1,100 @@
+def print_header():
+    print("=" * 60)
+    print("Vaibhavi Agrawal".center(60))
+    print("B.Tech CSE | Machine Learning | Cybersecurity".center(60))
+    print("=" * 60)
+    print("📧 Email: vaibhaviagrawal88@gmail.com")
+    print("🔗 LinkedIn: https://www.linkedin.com/in/vaibhavi-agrawal-ab1a04274")
+    print("💻 GitHub: https://github.com/vaibhavi-AG1337")
+    print("🧠 LeetCode: https://leetcode.com/u/vaibhaviAG/")
+    print("=" * 60)
+
+
+def summary():
+    print("\n SUMMARY")
+    print("-" * 60)
+    print(
+        "Motivated and results-driven pre-final year student with strong interests in "
+        "Machine Learning, Software Development, Frontend Technologies, Management, "
+        "and Cybersecurity. Passionate about applying technical knowledge to build "
+        "secure, efficient, and innovative solutions."
+    )
+
+
+def technical_skills():
+    print("\n TECHNICAL SKILLS")
+    print("-" * 60)
+    print("Programming Languages : Python, C++, Java, JavaScript, HTML, CSS, MySQL")
+    print("Frameworks & Tech     : React, Flask, SQLite, TensorFlow, PyTorch, REST APIs")
+    print("Tools                : Git, Docker, Postman, VS Code, Jupyter, Google Colab")
+    print("Operating Systems    : Linux (Ubuntu), Windows")
+    print("Expertise            : ML, Web Dev, Frontend Dev, Software Development")
+
+
+def education():
+    print("\n EDUCATION")
+    print("-" * 60)
+    print("B.Tech (CSE) Core | VIT Bhopal | 2023–Present | CGPA: 9.1/10")
+    print("Class XII | GVN The Global School | 2023 | 85.2%")
+    print("Class X   | Carmel Convent School | 2021 | 96%")
+
+
+def experience():
+    print("\n EXPERIENCE & LEADERSHIP")
+    print("-" * 60)
+    print("• Media & Content Lead – SDC (50K+ reach, 1M+ impressions)")
+    print("• PR & Outreach Core – ICreate Club (500+ contacts, 20+ partnerships)")
+    print("• Event Management Core – WiCyS VIT (10+ events, 1.5K+ participants)")
+    print("• Community Member – KRAAFT Entertainment")
+
+
+def projects():
+    print("\n PROJECTS & RESEARCH")
+    print("-" * 60)
+    print("1. Improving Object Detection Efficiency using Network Coding")
+    print("2. Lung Cancer Detection using Ensemble Learning Models")
+    print("3. Real-Time Data Optimization for Object Detection (IoT + Edge)")
+    print("4. Shramsetu – Employment Platform for Rural Workforce (Top 10 GDSC Hackathon)")
+    print("5. WeSecure – Android Safety Alert Application")
+
+
+def achievements():
+    print("\n ACHIEVEMENTS")
+    print("-" * 60)
+    print(" 1st – CyberSecureX CTF (KIET)")
+    print(" 1st – NEC Techfest CTF")
+    print(" 3rd – IIIT Naya Raipur CTF")
+    print(" Top 10 – GDSC University Hackathon")
+
+
+def certifications():
+    print("\n CERTIFICATIONS")
+    print("-" * 60)
+    print("• NPTEL – Fundamentals of Machine Learning")
+    print("• AWS Technical Essentials")
+    print("• FreeCodeCamp – Responsive Web Design")
+    print("• HackerRank – 5 star Python & Problem Solving")
+
+
+def hobbies_languages():
+    print("\n HOBBIES & LANGUAGES")
+    print("-" * 60)
+    print("Hobbies   : Swimming, Skating, Cricket, Badminton, Piano, Photography")
+    print("Languages : English, Hindi, French, Japanese (Learning)")
+
+
+def main():
+    print_header()
+    summary()
+    technical_skills()
+    education()
+    experience()
+    projects()
+    achievements()
+    certifications()
+    hobbies_languages()
+    print("\n✅ End of Resume\n")
+
+
+if __name__ == "__main__":
+    main()
